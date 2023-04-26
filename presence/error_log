@@ -1,0 +1,16 @@
+[16-Mar-2021 07:42:52 Asia/Jakarta] PHP Warning:  include(index.php?p=4004): failed to open stream: No such file or directory in /home/inir8265/public_html/presence/catatpresensi.php on line 27
+[16-Mar-2021 07:42:52 Asia/Jakarta] PHP Warning:  include(): Failed opening 'index.php?p=4004' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/inir8265/public_html/presence/catatpresensi.php on line 27
+[18-Mar-2021 10:04:07 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/inir8265/public_html/presence/catatpresensi.php on line 10
+[18-Mar-2021 10:04:07 Asia/Jakarta] PHP Warning:  include(index.php?p=4004): failed to open stream: No such file or directory in /home/inir8265/public_html/presence/catatpresensi.php on line 27
+[18-Mar-2021 10:04:07 Asia/Jakarta] PHP Warning:  include(): Failed opening 'index.php?p=4004' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/inir8265/public_html/presence/catatpresensi.php on line 27
+[18-Mar-2021 10:04:15 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/inir8265/public_html/presence/catatpresensi.php on line 10
+[18-Mar-2021 10:04:15 Asia/Jakarta] PHP Warning:  include(index.php?p=4004): failed to open stream: No such file or directory in /home/inir8265/public_html/presence/catatpresensi.php on line 27
+[18-Mar-2021 10:04:15 Asia/Jakarta] PHP Warning:  include(): Failed opening 'index.php?p=4004' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/inir8265/public_html/presence/catatpresensi.php on line 27
+[18-Mar-2021 10:04:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/inir8265/public_html/presence/catatpresensi.php on line 10
+[18-Mar-2021 10:04:37 Asia/Jakarta] PHP Warning:  include(index.php?p=4004): failed to open stream: No such file or directory in /home/inir8265/public_html/presence/catatpresensi.php on line 27
+[18-Mar-2021 10:04:37 Asia/Jakarta] PHP Warning:  include(): Failed opening 'index.php?p=4004' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/inir8265/public_html/presence/catatpresensi.php on line 27
+[18-Mar-2021 18:00:32 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/inir8265/public_html/presence/catatpresensi.php on line 10
+[18-Mar-2021 18:00:32 Asia/Jakarta] PHP Warning:  include(index.php?p=4004): failed to open stream: No such file or directory in /home/inir8265/public_html/presence/catatpresensi.php on line 27
+[18-Mar-2021 18:00:32 Asia/Jakarta] PHP Warning:  include(): Failed opening 'index.php?p=4004' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/inir8265/public_html/presence/catatpresensi.php on line 27
+[18-Mar-2021 18:12:37 Asia/Jakarta] PHP Warning:  include(index.php?p=4004): failed to open stream: No such file or directory in /home/inir8265/public_html/presence/catatpresensi.php on line 27
+[18-Mar-2021 18:12:37 Asia/Jakarta] PHP Warning:  include(): Failed opening 'index.php?p=4004' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/inir8265/public_html/presence/catatpresensi.php on line 27
