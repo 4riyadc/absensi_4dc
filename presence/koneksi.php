@@ -1,8 +1,8 @@
 <?php 
 $hostname = "localhost";
-$userdb = "inir8265_root";
-$passwd = "root2021";
-$dbname = "inir8265_test";
+$userdb = "root";
+$passwd = "";
+$dbname = "test";
 
 $koneksi = mysqli_connect($hostname,$userdb,$passwd,$dbname);
 
